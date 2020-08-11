@@ -1,0 +1,11 @@
+[Event "Test Game"]
+[Site "Test site"]
+[Date "1993.??.??"]
+[Round "-"]
+[White "Aalto T"]
+[Black "Undefined"]
+[Result "1-0"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Nf6 5.Bc4 c6 6.Nf3 Bg4 7.Bxf7+ Kxf7 8.Ne5+
+Kg8 9.Nxg4 Nbd7 10.Qe2 Nxg4 11.Qe6#   1-0
